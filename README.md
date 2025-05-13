@@ -1,0 +1,2 @@
+# AI-
+这个项目是一个结合了多个技术栈的Web应用，使用了FastAPI、Gradio、LangChain、Tavily、以及多种API接口来实现一个股票查询和信息检索的功能。
